@@ -1,0 +1,1 @@
+hostname:sshport:username:password:private_key
